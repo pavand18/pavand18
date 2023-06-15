@@ -20,7 +20,7 @@
 </br>
 
   <i>
-    Till now I have worked on tech stacks such as HTML, CSS, JS, REACTJS, FIREBASE, MYSQL, BOOTSTRAP and much more.Learning and expanding new tech skills and implementing them in my ongoing projects.
+    Till now I have worked on tech stacks such as HTML, CSS, JS, REACTJS, FIREBASE, MYSQL, BOOTSTRAP and much more.Also learning and expanding new tech skills and implementing them in my ongoing projects.
   </i>
 
 </p>
