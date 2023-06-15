@@ -6,12 +6,23 @@
 
 <p>
   <i>
-    I'm a Frontend Web Developer with experience in creating and maintaining responsive websites, and using modern libraries and frameworks to implement innovative web solutions. I have been Performing as a Web developer for over 1+ years and am still in the process of gaining more experience over more years. 
+    I'm a Frontend Web Developer with experience in creating and maintaining responsive websites, and using modern libraries and frameworks to implement innovative web solutions. I have been working as a Web developer for over 1+ years and am still in the process of gaining more experience over more years. 
   </i>
+
 </br>
+</br>
+
   <i>
-    My main goal is to fully understand the challenges and requirements and bring them to real life, I have been working on developing solutions of problems which I and most of us face in our daily lives.
+    My journey involves more than lines of code; it's about understanding challenges and transforming them into real-world solutions. I have been working on developing solutions of problems which I and most of us face in our daily lives.
   </i>
+
+</br>
+</br>
+
+  <i>
+    Till now I have worked on tech stacks such as HTML, CSS, JS, REACTJS, FIREBASE, MYSQL, BOOTSTRAP and much more.Learning and expanding new tech skills and implementing them in my ongoing projects.
+  </i>
+
 </p>
 
 
